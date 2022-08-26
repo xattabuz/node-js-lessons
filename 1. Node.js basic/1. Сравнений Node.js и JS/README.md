@@ -5,4 +5,10 @@
   Browser vs Node.js
 </p>
 
-![image](https://user-images.githubusercontent.com/85451719/186795433-5b4955fa-c324-4303-9d73-0431979998d4.png)
+![image](https://user-images.githubusercontent.com/85451719/186795786-18559139-2169-486a-9c0b-c3e30eeda839.png)
+
+<br>
+
+<p align="center">
+  Node.js vs Deno
+</p>
