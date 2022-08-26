@@ -5,7 +5,7 @@
   Browser vs Node.js
 </p>
 
-![image](https://user-images.githubusercontent.com/85451719/186795786-18559139-2169-486a-9c0b-c3e30eeda839.png)
+![image](https://user-images.githubusercontent.com/85451719/186795894-862bd91b-50f7-40f3-ab15-57b2fb49b94c.png)
 
 <br>
 
